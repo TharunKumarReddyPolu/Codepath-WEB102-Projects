@@ -14,6 +14,7 @@ This repository contains demo GIFs of all the projects developed during Codepath
 ![venivici](https://github.com/TharunKumarReddyPolu/Codepath-WEB102-Projects/assets/62342666/dd555574-a574-4d88-a365-dcfc983d9bc0)
 
 ## Project 4: Data Dashboard Part 1
+![data-dashboard-pt1](https://github.com/TharunKumarReddyPolu/Codepath-WEB102-Projects/assets/62342666/1d6cec43-5abb-4023-9944-a4dbeccdecac)
 
 ## Project 4: Data Dashboard Part 2
 ![data-dashboard-pt2](https://github.com/TharunKumarReddyPolu/Codepath-WEB102-Projects/assets/62342666/8e22bc7a-1f2b-459e-87cb-54ff4dff8705)
