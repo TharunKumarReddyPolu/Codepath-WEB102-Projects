@@ -7,7 +7,7 @@ This repository contains demo GIFs of all the projects developed during Codepath
 ## Project 2: Flash/Pair Cards Part 1
 ![flipcardspt1](https://github.com/TharunKumarReddyPolu/Codepath-WEB102-Projects/assets/62342666/d5fd6189-1c09-47c1-ac96-8403191ac50a)
 
-## Project 2: Flash/Pair Part 2
+## Project 2: Flash/Pair Cards Part 2
 ![flipcardspt2](https://github.com/TharunKumarReddyPolu/Codepath-WEB102-Projects/assets/62342666/7086779b-3aa7-4859-a8bf-82b6ebe0d888)
 
 ## Project 3: Veni Vici
